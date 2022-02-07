@@ -1,4 +1,4 @@
-package String.PushedString;
+package String;
 
 import org.jetbrains.annotations.NotNull;
 

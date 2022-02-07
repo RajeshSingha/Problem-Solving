@@ -1,4 +1,4 @@
-package Array.PusedArray;
+package Array;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
@@ -16,5 +16,6 @@ public class RemoveDuplicatesFromSortedArray {
             count++;
         }
         return count;
+
     }
 }

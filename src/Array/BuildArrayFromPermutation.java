@@ -1,4 +1,4 @@
-package Array.PusedArray;
+package Array;
 
 public class BuildArrayFromPermutation {
     public static void main(String[] args) {

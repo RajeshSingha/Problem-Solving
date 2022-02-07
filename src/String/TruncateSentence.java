@@ -1,4 +1,4 @@
-package String.PushedString;
+package String;
 
 public class TruncateSentence {
     public static void main(String[] args) {
